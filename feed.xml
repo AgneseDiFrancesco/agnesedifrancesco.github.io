@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Blog di Agnese</title>
-    <link href="https://agnesedifrancesco.github.io/gh-page/feed.xml" rel="self" />
-    <link href="https://agnesedifrancesco.github.io/gh-page" />
+    <link href="https://agnesedifrancesco.github.io/feed.xml" rel="self" />
+    <link href="https://agnesedifrancesco.github.io" />
     <updated>2022-11-21T18:24:15+01:00</updated>
     <author>
         <name>Agnese di Francesco</name>
     </author>
-    <id>https://agnesedifrancesco.github.io/gh-page</id>
+    <id>https://agnesedifrancesco.github.io</id>
 
     <entry>
         <title>Ciao questo é un post</title>
         <author>
             <name>Agnese di Francesco</name>
         </author>
-        <link href="https://agnesedifrancesco.github.io/gh-page/ciao-questo-e-un-post.html"/>
-        <id>https://agnesedifrancesco.github.io/gh-page/ciao-questo-e-un-post.html</id>
+        <link href="https://agnesedifrancesco.github.io/ciao-questo-e-un-post.html"/>
+        <id>https://agnesedifrancesco.github.io/ciao-questo-e-un-post.html</id>
 
         <updated>2022-11-21T18:24:15+01:00</updated>
             <summary>

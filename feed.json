@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Blog di Agnese",
     "description": "",
-    "home_page_url": "https://agnesedifrancesco.github.io/gh-page",
-    "feed_url": "https://agnesedifrancesco.github.io/gh-page/feed.json",
+    "home_page_url": "https://agnesedifrancesco.github.io",
+    "feed_url": "https://agnesedifrancesco.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Agnese di Francesco"
     },
     "items": [
         {
-            "id": "https://agnesedifrancesco.github.io/gh-page/ciao-questo-e-un-post.html",
-            "url": "https://agnesedifrancesco.github.io/gh-page/ciao-questo-e-un-post.html",
+            "id": "https://agnesedifrancesco.github.io/ciao-questo-e-un-post.html",
+            "url": "https://agnesedifrancesco.github.io/ciao-questo-e-un-post.html",
             "title": "Ciao questo é un post",
             "summary": "questo è un blocco!",
             "content_html": "\n  <p>\n    questo è un blocco!\n  </p>\n\n  <p>\n    \n  </p>",
