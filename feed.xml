@@ -3,12 +3,24 @@
     <title>Blog di Agnese</title>
     <link href="https://agnesedifrancesco.github.io/feed.xml" rel="self" />
     <link href="https://agnesedifrancesco.github.io" />
-    <updated>2022-11-21T18:24:15+01:00</updated>
+    <updated>2022-11-21T18:44:18+01:00</updated>
     <author>
         <name>Agnese di Francesco</name>
     </author>
     <id>https://agnesedifrancesco.github.io</id>
 
+    <entry>
+        <title>lol</title>
+        <author>
+            <name>Agnese di Francesco</name>
+        </author>
+        <link href="https://agnesedifrancesco.github.io/lol.html"/>
+        <id>https://agnesedifrancesco.github.io/lol.html</id>
+
+        <updated>2022-11-21T18:44:18+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Ciao questo é un post</title>
         <author>
