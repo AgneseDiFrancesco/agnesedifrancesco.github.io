@@ -3,10 +3,37 @@
     <title>Blog di Agnese</title>
     <link href="https://agnesedifrancesco.github.io/gh-page/feed.xml" rel="self" />
     <link href="https://agnesedifrancesco.github.io/gh-page" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-11-21T18:24:15+01:00</updated>
     <author>
         <name>Agnese di Francesco</name>
     </author>
     <id>https://agnesedifrancesco.github.io/gh-page</id>
 
+    <entry>
+        <title>Ciao questo é un post</title>
+        <author>
+            <name>Agnese di Francesco</name>
+        </author>
+        <link href="https://agnesedifrancesco.github.io/gh-page/ciao-questo-e-un-post.html"/>
+        <id>https://agnesedifrancesco.github.io/gh-page/ciao-questo-e-un-post.html</id>
+
+        <updated>2022-11-21T18:24:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    questo è un blocco!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    questo è un blocco!
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
