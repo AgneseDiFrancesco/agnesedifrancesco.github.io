@@ -3,7 +3,7 @@
     <title>Blog di Agnese</title>
     <link href="https://agnesedifrancesco.github.io/feed.xml" rel="self" />
     <link href="https://agnesedifrancesco.github.io" />
-    <updated>2022-11-21T18:44:18+01:00</updated>
+    <updated>2022-11-21T18:49:16+01:00</updated>
     <author>
         <name>Agnese di Francesco</name>
     </author>
@@ -16,10 +16,16 @@
         </author>
         <link href="https://agnesedifrancesco.github.io/lol.html"/>
         <id>https://agnesedifrancesco.github.io/lol.html</id>
+        <media:content url="https://agnesedifrancesco.github.io/media/posts/2/toti_pizza_tea.jpg" medium="image" />
 
-        <updated>2022-11-21T18:44:18+01:00</updated>
+        <updated>2022-11-21T18:49:16+01:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://agnesedifrancesco.github.io/media/posts/2/toti_pizza_tea.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://agnesedifrancesco.github.io/media/posts/2/photo_5893417299254294954_y.jpg" alt="" width="1280" height="950" sizes="100vw" srcset="https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-xs.jpg 300w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-sm.jpg 480w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-md.jpg 768w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-lg.jpg 1024w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-xl.jpg 1360w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Ciao questo é un post</title>

@@ -5,6 +5,7 @@
     "home_page_url": "https://agnesedifrancesco.github.io",
     "feed_url": "https://agnesedifrancesco.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://agnesedifrancesco.github.io/media/website/adf.png",
     "author": {
         "name": "Agnese di Francesco"
     },
@@ -13,13 +14,15 @@
             "id": "https://agnesedifrancesco.github.io/lol.html",
             "url": "https://agnesedifrancesco.github.io/lol.html",
             "title": "lol",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://agnesedifrancesco.github.io/media/posts/2/photo_5893417299254294954_y.jpg\" alt=\"\" width=\"1280\" height=\"950\" sizes=\"100vw\" srcset=\"https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-xs.jpg 300w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-sm.jpg 480w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-md.jpg 768w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-lg.jpg 1024w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-xl.jpg 1360w ,https://agnesedifrancesco.github.io/media/posts/2/responsive/photo_5893417299254294954_y-2xl.jpg 1600w\"></figure>",
+            "image": "https://agnesedifrancesco.github.io/media/posts/2/toti_pizza_tea.jpg",
             "author": {
                 "name": "Agnese di Francesco"
             },
             "tags": [
             ],
             "date_published": "2022-11-21T18:44:18+01:00",
-            "date_modified": "2022-11-21T18:44:18+01:00"
+            "date_modified": "2022-11-21T18:49:16+01:00"
         },
         {
             "id": "https://agnesedifrancesco.github.io/ciao-questo-e-un-post.html",
