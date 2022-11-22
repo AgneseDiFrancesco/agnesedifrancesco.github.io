@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://agnesedifrancesco.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://agnesedifrancesco.de/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://agnesedifrancesco.github.io/</loc>
+<loc>https://agnesedifrancesco.de/</loc>
 </url>
 <url>
-<loc>https://agnesedifrancesco.github.io/ciao-questo-e-un-post.html</loc>
+<loc>https://agnesedifrancesco.de/ciao-questo-e-un-post.html</loc>
 <lastmod>2022-11-21T18:24:15+01:00</lastmod>
 </url>
 <url>
-<loc>https://agnesedifrancesco.github.io/lol.html</loc>
+<loc>https://agnesedifrancesco.de/lol.html</loc>
 <lastmod>2022-11-21T18:49:16+01:00</lastmod>
 <image:image>
-<image:loc>https://agnesedifrancesco.github.io/media/posts/2/toti_pizza_tea.jpg</image:loc>
+<image:loc>https://agnesedifrancesco.de/media/posts/2/toti_pizza_tea.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://agnesedifrancesco.github.io/media/posts/2/photo_5893417299254294954_y.jpg</image:loc>
+<image:loc>https://agnesedifrancesco.de/media/posts/2/photo_5893417299254294954_y.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
