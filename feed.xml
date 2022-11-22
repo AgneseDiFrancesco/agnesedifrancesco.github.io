@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Blog di Agnese</title>
+    <title>Agnese Free Space</title>
     <link href="https://agnesedifrancesco.de/feed.xml" rel="self" />
     <link href="https://agnesedifrancesco.de" />
-    <updated>2022-11-22T08:34:38+01:00</updated>
+    <updated>2022-11-22T13:22:40+01:00</updated>
     <author>
         <name>Agnese di Francesco</name>
     </author>
     <id>https://agnesedifrancesco.de</id>
 
     <entry>
-        <title>Il Valore della Scrittura</title>
+        <title>Erasmus a Sevilla</title>
         <author>
             <name>Agnese di Francesco</name>
         </author>
         <link href="https://agnesedifrancesco.de/lol/"/>
         <id>https://agnesedifrancesco.de/lol/</id>
-        <media:content url="https://agnesedifrancesco.de/media/posts/2/writing.jpg" medium="image" />
+        <media:content url="https://agnesedifrancesco.de/media/posts/2/New-Project.jpg" medium="image" />
 
-        <updated>2022-11-22T08:34:38+01:00</updated>
+        <updated>2022-11-22T13:22:40+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://agnesedifrancesco.de/media/posts/2/writing.jpg" alt="" />
-                    In questo post potrei scrivere un dialogo platonico o qualcosa di carino in cui parlo del valore della scrittura: sia per chi legge&hellip;
+                        <img src="https://agnesedifrancesco.de/media/posts/2/New-Project.jpg" alt="" />
+                    Qui posso raccontare della mia esperienza erasmus e dare consigli a chi voglia intraprendere la stessa esperienza 😀
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://agnesedifrancesco.de/media/posts/2/writing.jpg" class="type:primaryImage" alt="" /></p>
-                <p>In questo post potrei scrivere un dialogo platonico o qualcosa di carino in cui parlo del valore della scrittura: sia per chi legge che per chi scrive. Questo servirebbe ad gasare Agne 😀</p>
-<p> </p>
+                    <p><img src="https://agnesedifrancesco.de/media/posts/2/New-Project.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Qui posso raccontare della mia esperienza erasmus e dare consigli a chi voglia intraprendere la stessa esperienza 😀</p>
             ]]>
         </content>
     </entry>
